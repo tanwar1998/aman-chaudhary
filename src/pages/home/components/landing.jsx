@@ -3,19 +3,20 @@ import ButtonComponent from '../../../components/button';
 import Typewriter from 'typewriter-effect';
 
 const NameString = [
-    'V',
-    'I',
-    'N',
-    'E',
-    'E',
-    'T',
-    '',
-    'T',
+    'A',
+    'M',
     'A',
     'N',
-    'W',
+    '',
+    'C',
+    'H',
+    'A',
+    'U',
+    'D',
+    'H',
     'A',
     'R',
+    'Y',
 ]
 
 const LandingComponent = (props) => {

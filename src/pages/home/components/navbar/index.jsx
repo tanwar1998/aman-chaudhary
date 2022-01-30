@@ -11,9 +11,9 @@ const NavbarComponent = (props) => {
             <div className="app-content-container">
                 <div className="logo-container-main">
                     <span className="logo-text">
-                        TAN
-                        <span className="special-character">V </span>
-                        AR
+                        CHAUDH
+                        <span className="special-character">A </span>
+                        RY
                     </span>
                 </div>
                 <div className="nav-link-container">
