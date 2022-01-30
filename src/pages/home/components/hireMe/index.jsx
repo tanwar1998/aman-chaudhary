@@ -22,19 +22,19 @@ const HireMeComponent = (props) => {
                         </h5>
                     </div>
                     <div className="hor-row links-container-main">
-                        <a href = 'https://github.com/tanwar1998/' >
+                        <a href = 'https://github.com/Amanchaudhary35/' >
                             <GithubOutlined />
                         </a>
-                        <a href = 'https://www.linkedin.com/in/vineet-tanwar/' >
+                        <a href = 'https://www.linkedin.com/in/aman-chaudhary-a3b9a722a/' >
                             <LinkedinOutlined />
                         </a>
-                        <a href = 'https://www.instagram.com/vineettanwar2000/' >
+                        <a href = 'https://www.instagram.com/aman_kumar_chaudhary__/' >
                             <InstagramOutlined />
                         </a>
-                        <a href = 'https://www.facebook.com/vineet.tanwar.180/' >
+                        <a href = 'https://www.facebook.com/aman.balyan.14/' >
                             <FacebookOutlined />
                         </a>
-                        <a href = 'mailto:vineettanwar1998@gmail.com' >
+                        <a href = 'mailto:amanchaudhary5335@gmail.com' >
                             <MailOutlined />
                         </a>
                     </div>

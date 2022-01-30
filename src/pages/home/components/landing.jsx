@@ -39,7 +39,7 @@ const LandingComponent = (props) => {
                     <h1 className="hor-row name-info-container">
                         { NameString.map((letter)=>{
                             return letter ? (<span>{letter}</span>)
-                                    : (<><br/> &emsp;&emsp;</>)
+                                    : (<><br/></>)
                         }) }
                     </h1>
                     <h3 className='hor-row post-container'>
